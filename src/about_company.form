@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="2"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="true"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="14" max="-2" attributes="0"/>
+              <Component id="jTextField2" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="419" max="32767" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane1" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+              <Component id="jTextField2" min="-2" pref="77" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="jScrollPane1" pref="428" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea1">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value=" SB International is an Indian based company established in 2003, engaged in the manufacture and export of high quality &#xa; Equestrian Products and boots in Western Styles.SB International has been honoured with the &#x201c;Government of India recognized&#xa; Export House&#x201d; certification by Council for Leather Exports in India. With over a decade of experience and innovation in this&#xa; industry, we are fully equipped for the latest tack business developments, and we always move parallel to the latest business&#xa; trend. This is the reason we are successfully exporting quality tack to leading importers in US with continuous growth in &#xa; goodwill and business.&#xa;&#xa; Excellence, competitive pricing, best quality, prompt delivery, all of them make our business larger &amp; larger, business friends&#xa; more and more. Innovation, maintained Quality and attention to detail have always been and continue to be the essence of &#xa; what we do. For the past so many years we, at SB International are dedicated to design and create superior equestrian &#xa; equipments&#x2019;. We take great pride in always delivering the best service and product.&#xa;&#xa; We have a large number of satisfied clients, proof of our dedicated service and excellent quality. We pay utmost attention&#xa; to this aspect of our production. We believe that we can only progress if we have satisfied customers, a belief that has paid&#xa; dividends.&#xa;&#xa; Our unit is a wide spread set up with sophisticated infrastructure, well equipped with the latest technology machineries, hi-tech&#xa; facilities, qualified &amp; experienced administrative unit, skilled labour so as to serve good quality products with acceptable prices&#xa; at all times to all our valuable customers offering services to them till the products reaches the door of our customers in good &#xa; condition and time. Our Mission is to become the Supreme Innovator, Supplier &amp; Brand of the Equestrian Industry through our&#xa; hard work and dedication to satisfy our customers with the finest quality of products with timely deliveries and competitive&#xa; prices ensuring long lasting relationship.&#xa;&#xa;We are exclusively into the production of Western Cowboy Boots, Western Saddles, Western tack products like Headstalls,&#xa; Halters, Breast Collars, Spur Straps, Nose Bands, Reins, Bosals, Girths, Lead Ropes, Nylon Halters, Rugs, Saddle Blankets and&#xa; many more Saddle Accessories. We are also into the production of Western Ladies Bag, Luggage Bag, Belts &amp; Pet Products using high quality leather and latest styles and patterns as per the changes in the market.&#xa;&#xa; "/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JTextField" name="jTextField2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="24" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="About the Company."/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
